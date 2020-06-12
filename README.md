@@ -1,16 +1,16 @@
 [![React Hawk](/react-hawk-logo.png)](https://github.com/rphansen91/react-hawk)
 
-[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![Travis](https://img.shields.io/travis/rphansen91/react-hawk.svg)](https://travis-ci.org/rphansen91/react-hawk)
-[![Coveralls](https://img.shields.io/coveralls/rphansen91/react-hawk.svg)](https://coveralls.io/github/rphansen91/react-hawk)
-[![Greenkeeper badge](https://badges.greenkeeper.io/rphansen91/react-hawk.svg)](https://greenkeeper.io/)
-[![Dev Dependencies](https://david-dm.org/rphansen91/react-hawk/dev-status.svg)](https://david-dm.org/rphansen91/react-hawk?type=dev)
-[![npm](https://img.shields.io/npm/v/react-hawk.svg)](https://www.npmjs.com/package/react-hawk)
-[![downloads](https://img.shields.io/npm/dw/react-hawk.svg)](https://www.npmjs.com/package/react-hawk)
+<!-- [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier) -->
+<!-- [![Travis](https://img.shields.io/travis/rphansen91/react-hawk.svg)](https://travis-ci.org/rphansen91/react-hawk) -->
+<!-- [![Coveralls](https://img.shields.io/coveralls/rphansen91/react-hawk.svg)](https://coveralls.io/github/rphansen91/react-hawk)
+[![Greenkeeper badge](https://badges.greenkeeper.io/rphansen91/react-hawk.svg)](https://greenkeeper.io/) -->
+<!-- [![Dev Dependencies](https://david-dm.org/rphansen91/react-hawk/dev-status.svg)](https://david-dm.org/rphansen91/react-hawk?type=dev) -->
+<!-- [![npm](https://img.shields.io/npm/v/react-hawk.svg)](https://www.npmjs.com/package/react-hawk) -->
+<!-- [![downloads](https://img.shields.io/npm/dw/react-hawk.svg)](https://www.npmjs.com/package/react-hawk) -->
 
 A set of react providers and components that allows for data to be used as a component, whether on the server or on the client. 
 
-[Example App](https://github.com/rphansen91/react-hawk-vs-context-vs-recoil-demo)
+[Example App](https://rphansen91.github.io/react-hawk-vs-context-vs-recoil-demo/)
 
 ### About
 
