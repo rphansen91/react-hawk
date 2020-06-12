@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Data HOC Should have a Provider component 1`] = `<div />`;
+
+exports[`Data HOC Should have an AsyncHOC component 1`] = `
+<div>
+  Loading...
+</div>
+`;
+
+exports[`Data HOC Should have an AsyncHOC component 2`] = `
+<div>
+  123
+   
+  Mug
+   
+  2.99
+</div>
+`;
+
+exports[`Data HOC Should have an AsyncHOC component 3`] = `
+<div>
+  Loading...
+</div>
+`;
+
+exports[`Data HOC Should have an AsyncHOC component 4`] = `
+<div>
+  124
+   
+  Glass
+   
+  6.99
+</div>
+`;
+
+exports[`Data HOC Should have an AsyncHOC component 5`] = `
+<div>
+  Loading...
+</div>
+`;
+
+exports[`Data HOC Should have an AsyncHOC component 6`] = `
+<div>
+  Not found
+</div>
+`;
+
+exports[`Data HOC Should have an AsyncHOC component 7`] = `
+<div>
+  Loading...
+</div>
+`;
+
+exports[`Data HOC Should not render data if unmounted 1`] = `
+<div>
+  Loading...
+</div>
+`;
+
+exports[`Data HOC Should not render data if unmounted 2`] = `null`;
+
+exports[`Data HOC Should not render error if unmounted 1`] = `
+<div>
+  Loading...
+</div>
+`;
+
+exports[`Data HOC Should not render error if unmounted 2`] = `null`;
+
+exports[`Data HOC Should render a loader and then the data 1`] = `
+<div>
+  Loading...
+</div>
+`;
+
+exports[`Data HOC Should render a loader and then the data 2`] = `
+<div>
+  123
+   
+  Mug
+   
+  2.99
+</div>
+`;
+
+exports[`Data HOC Should render a loader and then the data 3`] = `
+<div>
+  123
+   
+  Mug
+   
+  2.99
+</div>
+`;
+
+exports[`Data HOC Should render a loader and then the error 1`] = `
+<div>
+  Loading...
+</div>
+`;
+
+exports[`Data HOC Should render a loader and then the error 2`] = `
+<div>
+  Not found
+</div>
+`;
+
+exports[`Data HOC Should wait for nested requests 1`] = `"<div>124<!-- --> <!-- -->Glass<!-- --> <!-- -->6.99</div>"`;
