@@ -21,7 +21,7 @@ export function hawkeye<V>(opts: IHawkEyeOpts<V>): IHawkEyeState<V> {
   }
   function get<A>(state: IHawkState<A>) {
     if (!subscriptions[state.key]) {
-      store.subscribe(state, dispatch)
+      subscriptions[state.key] = store.subscribe(state, dispatch)
     }
     return store.currentValue(state)
   }
