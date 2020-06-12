@@ -8,15 +8,17 @@
 <!-- [![npm](https://img.shields.io/npm/v/react-hawk.svg)](https://www.npmjs.com/package/react-hawk) -->
 <!-- [![downloads](https://img.shields.io/npm/dw/react-hawk.svg)](https://www.npmjs.com/package/react-hawk) -->
 
-A set of react providers and components that allows for data to be used as a component, whether on the server or on the client. 
-
 [Example App](https://rphansen91.github.io/react-hawk-vs-context-vs-recoil-demo/)
 
 ### About
 
 This library is for educational purposes and is **not** intended for production use. 
 
-Concepts were originally introduced by [recoiljs](https://github.com/facebookexperimental/Recoil) and is an attempt to break down the library and reconstruct it, and in the process coming away with a better understanding of the state lifecycle of react. 
+Concepts were originally introduced by [recoiljs](https://github.com/facebookexperimental/Recoil)
+
+This is an attempt to break down the library and reconstruct it.
+
+In the process coming away with a better understanding of the state lifecycle of react. 
 
 ### Design Goals
 
