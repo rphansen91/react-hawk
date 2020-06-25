@@ -1,6 +1,6 @@
 {
   "name": "react-hawk",
-  "version": "0.0.2-development",
+  "version": "0.0.3-development",
   "description": "State management library for react",
   "keywords": [],
   "main": "dist/react-hawk.umd.js",
