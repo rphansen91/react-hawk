@@ -10,6 +10,7 @@
     "dist"
   ],
   "author": "rphansen91 <rphansen91@gmail.com>",
+  "homepage": "https://elevatejs.com/blog/react-hawk",
   "repository": {
     "type": "git",
     "url": "https://github.com/rphansen91/react-hawk.git"
